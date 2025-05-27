@@ -175,7 +175,7 @@
 }
 
 .theme-menu__button:disabled::before {
-  content: "▶️";
+  content: "▶";
   inset-inline-start: -20px;
   position: absolute;
   inset-block-start: 0px;
